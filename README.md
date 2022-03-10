@@ -1,1 +1,2 @@
 # landing-page
+This is a sample web page design project from The Odin Project. The goal of the project is to construct a webpage from scratch utilizing only HTML and CSS. While the design itself is fairly simple, this is more of a way to practice reaching a finished product from essentially 0 with little guidance or hand-holding, and relies on the student to research any issues they come across themselves in their design or code.
